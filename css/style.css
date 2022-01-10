@@ -1,0 +1,7 @@
+#image { 
+    position:absolute;
+    max-width: 100%;
+}
+#img-div{
+    position: relative;
+}
